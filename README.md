@@ -1,4 +1,3 @@
-# Inventario-de-recursos-AWS
 
 # AWS Resource Inventory & Monitoring System
 
